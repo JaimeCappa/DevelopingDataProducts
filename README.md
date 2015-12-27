@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "README"
 author: "Jaime Cappa"
@@ -36,3 +37,6 @@ Dependencies
 More Information
 
 The application is deployed on ShinyApps.io at [https://jaimecappa.shinyapps.io/DevelopingDataProducts/](https://jaimecappa.shinyapps.io/DevelopingDataProducts).
+=======
+# DevelopingDataProducts
+>>>>>>> cb2fc2a5b80144a72d9d2689a3abca6d98732acc
